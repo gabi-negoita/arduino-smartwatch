@@ -14,5 +14,6 @@ Requirements: arduino board, breadboard, LCD display, humidity and temperature s
 - Github [@gabi-negoita](https://github.com/gabi-negoita)
 - LinkedIn [@gavriil-negoita](https://www.linkedin.com/in/gavriil-negoita)
 
+
 - Cătălina Bejan | catalina_bejan@yahoo.com
 - LinkedIn [@catalina-bejan](linkedin.com/in/catalina-bejan-9a872617b)
